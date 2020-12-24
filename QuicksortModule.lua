@@ -1,5 +1,3 @@
--- Module by AverageLua --
-
 local quicksortModule = {}
 
 local function partition(array, pivot, size)
